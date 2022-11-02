@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.w-300{
+    width: 300px;
+}
+.dpf{
+    display: flex;
+}
+.jc{
+    justify-content: center;
+}
+
+/* #result{
+    border: 3px solid red; */
+    /* width: 750px;
+} */
+
+.dn{
+    display: none;
+}
+
+.row{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+
+    /* align-items: center; */
+}
+.boite1{
+    width: 25%;    
+    /* border: 3px solid red; */
+}
+.boite2{
+    width: 50%;
+}
